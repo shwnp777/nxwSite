@@ -1,0 +1,12 @@
+.home-Page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10%;
+  .logoDiv {
+    width: 400px;
+    img {
+      width: 100%;
+    }
+  }
+}
